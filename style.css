@@ -1,0 +1,129 @@
+ul{
+    list-style-type: disc;
+}
+a{
+    text-decoration: none;
+}
+code{
+    background-color: white;
+}
+h3{
+    font-size:25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size:16px;
+}
+#cd{
+    background-color:white;
+    padding:5px;
+}
+#page{
+    width:1000px;
+    border-width:2px;
+    padding:25px;
+    background-color: rgb(204, 203, 173);
+    margin-left:125px;
+}
+.pageTop{
+    width:800px;
+    height:250px;
+    margin-left:100px;
+    background-color: rgb(187, 187, 145);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    position:absolute;
+    top:60px;
+    margin-left:275px;
+    font-size:50px;
+}
+.section{
+    width:600px;
+    position:relative;
+    margin-left:300px;
+}
+nav{
+    width:240px;
+    height:208px;
+    Position:fixed;
+    margin-top:25px;
+    margin-left:25px;
+    background-color:rgb(13, 20, 13);
+}
+#menu{
+    text-align:center;
+    color:white;
+    position:relative;
+    top:5px;
+    padding:3px;
+}
+#mita{
+    width:225px;
+    height:25px;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    margin-left:-35px;
+    margin-top:-5px;
+    padding:2px;
+    background-color: azure;
+    list-style-type:none;
+}
+#mitv{
+    width:225px;
+    height:25px;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    margin-left:-35px;
+    margin-top:5px;
+    padding:2px;
+    background-color: azure;
+    list-style-type:none;
+}
+#mito{
+    width:225px;
+    height:25px;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    margin-left:-35px;
+    margin-top:5px;
+    padding:2px;
+    background-color: azure;
+    list-style-type:none;
+}
+#mitp{
+    width:225px;
+    height:25px;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    margin-left:-35px;
+    margin-top:5px;
+    padding:2px;
+    background-color: azure;
+    list-style-type:none;
+}
+#miti{
+    width:225px;
+    height:25px;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    margin-left:-35px;
+    margin-top:5px;
+    padding:2px;
+    background-color: azure;
+    list-style-type:none;
+}
